@@ -1,16 +1,12 @@
 # remote_app
 
-A new Flutter project.
+A Flutter project demonstrating **API integration** using HTTP requests.
 
-## Getting Started
+This app fetches data from a remote API and displays it in a list, and also demonstrates sending data (POST request) to the API.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 App Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App Screenshot](Images/image.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
